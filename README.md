@@ -1,2 +1,2 @@
 # gllacy
- Учебный проект html/css
+ Учебный проект html/css https://kokonstya.github.io/gllacy/.
